@@ -1,0 +1,1 @@
+{"jobID":"f03d43f1-465c-2d41-f962-a6f527e94456","spec":{"type":"policy","cause":{"Message":"","User":"Tim Flagg \u003ctim.flagg@altoros.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
